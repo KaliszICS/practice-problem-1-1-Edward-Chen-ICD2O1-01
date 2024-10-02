@@ -14,9 +14,11 @@ def q2():
   print(5)
 def q3():
   #Write Assignment code here
+  print( "Help me!")
   
 def q4():
   #Write Assignment code here
+  print("3x3=9")
 
 q1()
 q2()
